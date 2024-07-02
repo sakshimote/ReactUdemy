@@ -1,0 +1,10 @@
+api-key=dd2a649f8d64523180850b74751b41c5
+
+
+
+https://api.themoviedb.org/3/list/:list_id  get movies list
+https://api.themoviedb.org/3/movie/popular get popular
+https://api.themoviedb.org/3/movie/upcoming  get upcoming
+https://api.themoviedb.org/3/movie/top_rated  top_rated
+
+
